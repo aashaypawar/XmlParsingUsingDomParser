@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users>
+
+    <user>
+        <name>Steve</name>
+        <designation>Apple</designation>
+        <loation>USA</loation>
+    </user>
+
+    <user>
+        <name>Sundar</name>
+        <designation>Google</designation>
+        <loation>USA</loation>
+    </user>
+
+    <user>
+        <name>Jeff</name>
+        <designation>Amazon</designation>
+        <loation>USA</loation>
+
+    </user>
+
+</users>
